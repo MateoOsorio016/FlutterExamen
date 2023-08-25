@@ -20,7 +20,7 @@ class _MyListState extends State<MyList> {
     {'name': 'Calorias', 'image': 'images/TABLEAU-CALORIES.jpg'},
     {'name': 'Rutinas', 'image': 'images/ejer.png'},
     {'name': 'Presion Arterial', 'image': 'images/descarga.png'},
-    {'name': 'Contacto', 'image': 'images/descarga.png'},
+    {'name': 'Contacto', 'image': 'images/1b0612bca0cd99911b17c88392db70ca-icono-de-contacto-de-soporte-al-cliente.png'},
   ];
 
   Map<String, Widget> routes = {
